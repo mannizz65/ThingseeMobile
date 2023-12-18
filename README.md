@@ -5,6 +5,8 @@ The app is the upgraded or V2 of the flutter mobile app project written in React
 
 ## Concept
 The app is integrated with  two Thingsee sensors(Air sensor and countersensor) which were made available to our team by the Haltian comapany. The sensor is also capable of monitoring the realtime data and send the data to the locally connected gateway from where the data is transmitted directly to the Aws cloud. which is received in the node.js [backend server](https://github.com/Haltian-company-project/backend) after verifing the certificates. The server is regularly sending the data to the firebase which is then received to the front end which is the mobile app.
+![](https://github.com/mannizz65/ThingseeMobile/blob/main/assets/diagram-export-19-12-2023-00_13_30.png)
+
 
 ## Acknowledgements
 
