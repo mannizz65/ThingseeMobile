@@ -60,4 +60,4 @@ yarn run android
 
 ## Contact
 
-Manish Panthi - manishpanthi040@gmail.com - [Githu b](https://github.com/mannizz65)
+Manish Panthi - manishpanthi040@gmail.com - [Github](https://github.com/mannizz65)
