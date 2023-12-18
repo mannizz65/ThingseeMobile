@@ -87,6 +87,9 @@ yarn run android
 ### Mobile View
 ![mobile](https://github.com/Shaik-Chapal/thingsee-frontend/assets/43337898/9f5e7767-947e-4e3c-b371-a121f658cf6a)
 
+##Web Project
+[Web Project](https://github.com/Shaik-Chapal/thingsee-frontend)
+
 ## Contact
 
 Manish Panthi - manishpanthi040@gmail.com - [Github](https://github.com/mannizz65)
