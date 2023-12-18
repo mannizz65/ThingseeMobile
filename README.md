@@ -20,21 +20,21 @@ Thingsee COUNT: Thingsee COUNT is an IoT sensor device capable of sensing moveme
 
 ### Prerequisites
 Before you begin, ensure you have met the following Packages:
-  react-native-community/blur
-  react-native-firebase/app
-  react-native-firebase/auth
-  react-native-firebase/firestore
-  react-navigation/native
-  react-navigation/native-stack
-  date-fns
-  lottie-react-native
-  react-native-chart-kit
-  react-native-circular-progress
-  react-native-linear-gradient
-  react-native-safe-area-context
-  react-native-screens
-  react-native-svg
-  react-native-vector-icons
+  - **react-native-community/blur
+  - **react-native-firebase/app
+  - **react-native-firebase/auth
+  - **react-native-firebase/firestore
+  - **react-navigation/native
+  - **react-navigation/native-stack
+  - **date-fns
+  - **lottie-react-native
+  - **react-native-chart-kit
+  - **react-native-circular-progress
+  - **react-native-linear-gradient
+  - **react-native-safe-area-context
+  - **react-native-screens
+  - **react-native-svg
+  - **react-native-vector-icons
 
 
 ## Features
