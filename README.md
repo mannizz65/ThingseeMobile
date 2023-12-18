@@ -6,11 +6,42 @@ The app is the upgraded or V2 of the flutter mobile app project written in React
 ## Concept
 The app is integrated with  two Thingsee sensors(Air sensor and countersensor) which were made available to our team by the Haltian comapany. The sensor is also capable of monitoring the realtime data and send the data to the locally connected gateway from where the data is transmitted directly to the Aws cloud. which is received in the node.js [backend server](https://github.com/Haltian-company-project/backend) after verifing the certificates. The server is regularly sending the data to the firebase which is then received to the front end which is the mobile app.
 
+## Acknowledgements
+
+- [Thingsee AIR: [Haltian](https://haltian.com/product/thingsee-air/)
+
+Thingsee AIR serves as a battery-operated wireless IoT sensor designed for monitoring indoor air quality. It tracks parameters such as Co², TVOC, temperature, barometric pressure, and humidity, offering a comprehensive view of both current air quality data and historical data.
+
+- [Thingsee COUNT: [Haltian](https://haltian.com/product/thingsee-count-people-counter/)
+
+Thingsee COUNT: Thingsee COUNT is an IoT sensor device capable of sensing movement beneath it and providing reports on the frequency and direction of detected movements.
+
+
 
 ### Prerequisites
-Before you begin, ensure you have met the following requirements:
--1
--2
+Before you begin, ensure you have met the following Packages:
+  react-native-community/blur
+  react-native-firebase/app
+  react-native-firebase/auth
+  react-native-firebase/firestore
+  react-navigation/native
+  react-navigation/native-stack
+  date-fns
+  lottie-react-native
+  react-native-chart-kit
+  react-native-circular-progress
+  react-native-linear-gradient
+  react-native-safe-area-context
+  react-native-screens
+  react-native-svg
+  react-native-vector-icons
+
+
+## Features
+- **Node.js API Integration**: Fetch machine data from a Node.js API.
+- **Data Visualization**: Display machine data in line and bar charts for  time periods.
+- **Location Data Visialization**: Show the user's current location using geolocation. Data fetch from third party api.
+
 
 ## Getting Started
  Clone the repository on a directory of your choice.
